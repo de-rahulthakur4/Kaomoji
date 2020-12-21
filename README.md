@@ -20,6 +20,9 @@ Features of the application:
 
 If you like to send emoticons in messages - then download this application.
 
+Download from Playstore:
+https://play.google.com/store/apps/details?id=rahul.thakur4.kaomoji&hl=en
+
 
 
 Contact Dev: (Report, Suggestion, or just casual chat)
